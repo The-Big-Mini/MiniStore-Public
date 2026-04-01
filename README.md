@@ -1,2 +1,2 @@
-# MiniStore-Public-
+# MiniStore-Public
 Public
