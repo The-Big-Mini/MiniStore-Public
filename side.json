@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "MiniStore Updates",
+  "identifier": "com.SideStore.SideStore.updates",
+  "subtitle": "MiniStore self-update source",
+  "description": "Stable update source for MiniStore — the alternative App Store for iOS.",
+  "sourceURL": "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/side.json",
+  "iconURL": "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/AltStore/Resources/Icons.xcassets/AppIcon.appiconset/1024.png",
+  "website": "https://github.com/The-Big-Mini/MiniStore-Public-Public",
+  "tintColor": "#018084",
+  "apps": [
+    {
+      "name": "MiniStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "The-Big-Mini",
+      "subtitle": "The Alternative App Store",
+      "localizedDescription": "MiniStore is an alternative App Store for iOS that lets you install and update apps directly from your device — no computer required.\n\nFeatures:\n• Install apps directly from sources\n• Refresh and update apps wirelessly\n• Widget support to track app expiry\n• Browse curated sources and discover new apps",
+      "iconURL": "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/AltStore/Resources/Icons.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "#018084",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/Screenshots/MiniStore-1.PNG",
+        "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/Screenshots/MiniStore-2.PNG",
+        "https://raw.githubusercontent.com/The-Big-Mini/MiniStore-Public-Public/Main/Screenshots/MiniStore-3.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "network",
+          "usageDescription": "Required to communicate with your device over Wi-Fi to install and refresh apps."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "Allows MiniStore to check for app updates in the background."
+        }
+      ],
+      "category": "utilities",
+      "releaseChannels": [
+        {
+          "track": "stable",
+          "releases": [
+            {
+              "version": "0.6.2",
+              "date": "2026-03-21",
+              "downloadURL": "https://github.com/The-Big-Mini/MiniStore-Public-Public/releases/download/0.6.2/MiniStore.ipa",
+              "size": 52428800,
+              "minOSVersion": "16.0",
+              "localizedDescription": "Initial MiniStore release."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
