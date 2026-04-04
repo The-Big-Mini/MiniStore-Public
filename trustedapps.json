@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "trusted": [
+    {
+      "identifier": "io.sidestore.example"
+    },
+    {
+      "identifier": "com.sidestoreapps.community",
+      "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json"
+    },
+    {
+      "identifier": "com.stik.stikdebug",
+      "sourceURL": "https://stikdebug.xyz/index.json"
+    },
+    {
+      "identifier": "com.livecontainer.source",
+      "sourceURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json"
+    },
+    {
+      "identifier": "com.aoshuang.manicemu",
+      "sourceURL": "https://apps.manicemu.site/altstore"
+    },
+    {
+      "identifier": "com.stossy11.MeloNX",
+      "sourceURL": "https://git.ryujinx.app/melonx/emu/-/raw/XC-ios-ht/source.json"
+    },
+    {
+      "identifier": "com.chachirie.source",
+      "sourceURL": "https://github.com/chachillie/Flycast-iOS/raw/refs/heads/main/flycast-ios.json"
+    },
+    {
+      "identifier": "org.geode-sdk.altsource",
+      "sourceURL": "https://ios-repo.geode-sdk.org/altsource/main.json"
+    },
+    {
+      "identifier": "com.sbuga.retrosekai",
+      "sourceURL": "https://repo.untitledcharts.com"
+    },
+    {
+      "identifier": "org.provenance-emu.provenance",
+      "sourceURL": "https://provenance-emu.com/apps.json"
+    },
+    {
+      "identifier": "com.neo.countdown",
+      "sourceURL": "https://neoarz.github.io/Countdown-App/Countdown.json"
+    },
+    {
+      "identifier": "me.oatmealdome.altstore",
+      "sourceURL": "https://altstore.oatmealdome.me"
+    },
+    {
+      "identifier": "com.utmapp.repos.UTM",
+      "sourceURL": "https://alt.getutm.app"
+    },
+    {
+      "identifier": "dev.crystall1ne.alt",
+      "sourceURL": "https://alt.crystall1ne.dev"
+    },
+    {
+      "identifier": "eu.pokemmo.altstore",
+      "sourceURL": "https://pokemmo.eu/altstore/"
+    },
+    {
+      "identifier": "dev.theodyssey.sidestore",
+      "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json"
+    },
+    {
+      "identifier": "stream.yattee",
+      "sourceURL": "https://repos.yattee.stream/alt/apps.json"
+    },
+    {
+      "identifier": "com.litritt.litsource",
+      "sourceURL": "https://altstore.ignitedemulator.com/"
+    },
+    {
+      "identifier": "thatstel.la.altsource",
+      "sourceURL": "https://alt.thatstel.la/"
+    }
+  ],
+  "sources": [
+    {
+      "identifier": "io.sidestore.example"
+    },
+    {
+      "identifier": "com.sidestoreapps.community",
+      "sourceURL": "https://community-apps.sidestore.io/sidecommunity.json"
+    },
+    {
+      "identifier": "com.stik.stikdebug",
+      "sourceURL": "https://stikdebug.xyz/index.json"
+    },
+    {
+      "identifier": "com.livecontainer.source",
+      "sourceURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json"
+    },
+    {
+      "identifier": "com.aoshuang.manicemu",
+      "sourceURL": "https://apps.manicemu.site/altstore"
+    },
+    {
+      "identifier": "com.stossy11.MeloNX",
+      "sourceURL": "https://git.ryujinx.app/melonx/emu/-/raw/XC-ios-ht/source.json"
+    },
+    {
+      "identifier": "com.chachirie.source",
+      "sourceURL": "https://github.com/chachillie/Flycast-iOS/raw/refs/heads/main/flycast-ios.json"
+    },
+    {
+      "identifier": "org.geode-sdk.altsource",
+      "sourceURL": "https://ios-repo.geode-sdk.org/altsource/main.json"
+    },
+    {
+      "identifier": "org.provenance-emu.provenance",
+      "sourceURL": "https://provenance-emu.com/apps.json"
+    },
+    {
+      "identifier": "com.neo.countdown",
+      "sourceURL": "https://neoarz.github.io/Countdown-App/Countdown.json"
+    },
+    {
+      "identifier": "me.oatmealdome.altstore",
+      "sourceURL": "https://altstore.oatmealdome.me"
+    },
+    {
+      "identifier": "com.utmapp.repos.UTM",
+      "sourceURL": "https://alt.getutm.app"
+    },
+    {
+      "identifier": "dev.crystall1ne.alt",
+      "sourceURL": "https://alt.crystall1ne.dev"
+    },
+    {
+      "identifier": "eu.pokemmo.altstore",
+      "sourceURL": "https://pokemmo.eu/altstore/"
+    },
+    {
+      "identifier": "dev.theodyssey.sidestore",
+      "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json"
+    },
+    {
+      "identifier": "stream.yattee",
+      "sourceURL": "https://repos.yattee.stream/alt/apps.json"
+    },
+    {
+      "identifier": "com.litritt.litsource",
+      "sourceURL": "https://altstore.ignitedemulator.com/"
+    },
+    {
+      "identifier": "thatstel.la.altsource",
+      "sourceURL": "https://alt.thatstel.la/"
+    }
+  ]
+}
