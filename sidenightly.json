@@ -41,7 +41,7 @@
               "version": "0.6.3-nightly",
               "date": "2026-03-21",
               "downloadURL": "https://github.com/The-Big-Mini/MiniStore-Public/releases/download/nightly/MiniStore.ipa",
-              "size": 21698984,
+              "size": 21698944,
               "minOSVersion": "16.0",
               "localizedDescription": "Latest nightly build — may contain experimental features and bugs. Use at your own risk."
             }
