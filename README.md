@@ -1,6 +1,6 @@
 # MiniStore
 
-> Sideload apps on any non-jailbroken iOS device — no VPN, no computer, no compromise.
+> Sideload apps on any non-jailbroken iOS device
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
