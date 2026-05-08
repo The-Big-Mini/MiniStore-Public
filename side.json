@@ -40,8 +40,8 @@
             {
               "version": "0.6.2",
               "date": "2026-03-21",
-              "downloadURL": "https://github.com/The-Big-Mini/MiniStore-Public/releases/download/0.6.2/MiniStore.ipa",
-              "size": 21711784,
+              "downloadURL": "https://github.com/The-Big-Mini/MiniStore-Public/releases/download/0.6.3/MiniStore.ipa",
+              "size": 21691086,
               "minOSVersion": "16.0",
               "localizedDescription": "Initial MiniStore release."
             }
